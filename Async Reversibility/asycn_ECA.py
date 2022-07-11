@@ -30,7 +30,7 @@ def cellular_automaton(rule_number, size, steps,
 
     if init_cond == 'random':
            x[0, :] = np.array(np.random.rand(size) < alpha, dtype=np.int8)
-           print((x[0, :].tolist())[1])
+          # print((x[0, :].tolist())[1])
     elif init_cond == 'impulse':
             if impulse_pos == 'left':
                 x[0, 0] = 1
