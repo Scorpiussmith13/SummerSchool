@@ -1,257 +1,89 @@
 Rule_no,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,Overall
-Rule: 0,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 1,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 2,Reversible,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 3,Reversible,Reversible,Non,Non,Non,Reversible,Reversible,Reversible,Reversible,Reversible
-Rule: 4,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 5,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 6,Non,Non,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 7,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 8,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 9,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 10,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 11,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 12,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 13,Reversible,Reversible,Reversible,Non,Non,Non,Non,Reversible,Reversible,Reversible
-Rule: 14,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 15,Non,Reversible,Reversible,Non,Reversible,Non,Non,Non,Reversible,Non
-Rule: 16,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 17,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 18,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 19,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 20,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 21,Non,Non,Reversible,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 22,Reversible,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 23,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 24,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 25,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 26,Reversible,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 27,Reversible,Non,Non,Reversible,Non,Non,Reversible,Non,Reversible,Non
-Rule: 28,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 29,Reversible,Reversible,Reversible,Non,Reversible,Non,Reversible,Reversible,Reversible,Reversible
-Rule: 30,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 31,Non,Non,Non,Reversible,Reversible,Reversible,Non,Non,Reversible,Non
-Rule: 32,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 33,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 34,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 35,Reversible,Reversible,Non,Non,Non,Non,Reversible,Reversible,Reversible,Reversible
-Rule: 36,Reversible,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 37,Non,Reversible,Reversible,Non,Reversible,Non,Non,Reversible,Non,Non
-Rule: 38,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 39,Non,Reversible,Non,Non,Reversible,Non,Reversible,Non,Non,Non
-Rule: 40,Non,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 41,Reversible,Non,Reversible,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 42,Reversible,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 43,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 44,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 45,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 46,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 47,Non,Non,Non,Reversible,Reversible,Reversible,Reversible,Reversible,Reversible,Reversible
-Rule: 48,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 49,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 50,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 51,Reversible,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 52,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 53,Non,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 54,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 55,Reversible,Non,Non,Reversible,Non,Non,Non,Reversible,Reversible,Non
-Rule: 56,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 57,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Non
-Rule: 58,Reversible,Non,Reversible,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 59,Reversible,Non,Non,Reversible,Non,Non,Non,Reversible,Reversible,Non
-Rule: 60,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 61,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 62,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 63,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 64,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 65,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 66,Non,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 67,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Non,Non
-Rule: 68,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 69,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 70,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 71,Non,Reversible,Non,Non,Non,Reversible,Reversible,Reversible,Reversible,Reversible
-Rule: 72,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 73,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 74,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 75,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 76,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 77,Non,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 78,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 79,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 80,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 81,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 82,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 83,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 84,Reversible,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 85,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Reversible,Non
-Rule: 86,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 87,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 88,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 89,Non,Reversible,Reversible,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 90,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 91,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 92,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 93,Non,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 94,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 95,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 96,Reversible,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 97,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Reversible,Non
-Rule: 98,Non,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 99,Reversible,Non,Reversible,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 100,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 101,Non,Non,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 102,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 103,Non,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 104,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 105,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 106,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 107,Non,Reversible,Reversible,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 108,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 109,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 110,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 111,Non,Non,Reversible,Reversible,Non,Non,Reversible,Reversible,Non,Non
-Rule: 112,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 113,Reversible,Non,Reversible,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 114,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 115,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 116,Non,Non,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 117,Reversible,Reversible,Reversible,Non,Non,Non,Reversible,Non,Reversible,Reversible
-Rule: 118,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 119,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 120,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 121,Non,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Non
-Rule: 122,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 123,Reversible,Reversible,Reversible,Non,Non,Non,Non,Reversible,Reversible,Reversible
-Rule: 124,Reversible,Non,Reversible,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 125,Reversible,Non,Reversible,Non,Reversible,Reversible,Non,Reversible,Reversible,Reversible
-Rule: 126,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 127,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 128,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 129,Non,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Non
-Rule: 130,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 131,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 132,Reversible,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 133,Non,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 134,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 135,Non,Non,Non,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 136,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 137,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non,Non
-Rule: 138,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 139,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 140,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 141,Non,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Non
-Rule: 142,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 143,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 144,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 145,Non,Non,Reversible,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 146,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 147,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 148,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 149,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 150,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 151,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 152,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 153,Non,Non,Non,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 154,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 155,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 156,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 157,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 158,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 159,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 160,Non,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 161,Non,Non,Non,Non,Non,Reversible,Reversible,Non,Reversible,Non
-Rule: 162,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 163,Non,Non,Non,Non,Non,Reversible,Reversible,Non,Reversible,Non
-Rule: 164,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 165,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non,Non
-Rule: 166,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 167,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 168,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 169,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Reversible,Non
-Rule: 170,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 171,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 172,Non,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 173,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 174,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 175,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 176,Reversible,Non,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 177,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 178,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 179,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 180,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 181,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 182,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 183,Non,Non,Non,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 184,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 185,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 186,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 187,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 188,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 189,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non,Non
-Rule: 190,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 191,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 192,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 193,Non,Non,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 194,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 195,Non,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 196,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 197,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 198,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 199,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 200,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 201,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Reversible,Non
-Rule: 202,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 203,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Reversible,Non
-Rule: 204,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 205,Non,Non,Non,Non,Reversible,Non,Reversible,Reversible,Reversible,Non
-Rule: 206,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 207,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 208,Non,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 209,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 210,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 211,Non,Non,Non,Reversible,Non,Non,Non,Non,Reversible,Non
-Rule: 212,Reversible,Non,Non,Non,Non,Non,Reversible,Non,Non,Non
-Rule: 213,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 214,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 215,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 216,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 217,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 218,Reversible,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 219,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non,Non
-Rule: 220,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 221,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 222,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 223,Non,Non,Non,Reversible,Non,Non,Reversible,Non,Reversible,Non
-Rule: 224,Reversible,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non
-Rule: 225,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 226,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 227,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non,Non
-Rule: 228,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 229,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 230,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 231,Non,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Non
-Rule: 232,Non,Non,Non,Non,Reversible,Non,Non,Non,Non,Non
-Rule: 233,Non,Non,Non,Non,Non,Non,Non,Reversible,Non,Non
-Rule: 234,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 235,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 236,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 237,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 238,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 239,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 240,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 241,Non,Non,Non,Non,Reversible,Reversible,Non,Non,Reversible,Non
-Rule: 242,Non,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 243,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non
-Rule: 244,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 245,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 246,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Non
-Rule: 247,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Reversible,Non
-Rule: 248,Non,Non,Non,Non,Non,Reversible,Non,Non,Non,Non
-Rule: 249,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
-Rule: 250,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 251,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 252,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 253,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 254,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Non
-Rule: 255,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Non
+Rule: 0,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 1,Reversible,Non,Non,Non,Non,Non,Non,Non,Reversible,Partial Reversible
+Rule: 2,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 3,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 4,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 5,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 6,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 7,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Reversible,Partial Reversible
+Rule: 8,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 9,Non,Non,Non,Non,Non,Reversible,Non,Non,Reversible,Partial Reversible
+Rule: 10,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 11,Reversible,Non,Non,Reversible,Non,Non,Reversible,Non,Reversible,Partial Reversible
+Rule: 12,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 13,Non,Reversible,Non,Non,Non,Non,Reversible,Reversible,Reversible,Partial Reversible
+Rule: 14,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 15,Reversible,Non,Reversible,Non,Non,Non,Non,Reversible,Reversible,Partial Reversible
+Rule: 18,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 19,Non,Non,Non,Non,Non,Non,Non,Reversible,Non,Partial Reversible
+Rule: 22,Reversible,Reversible,Reversible,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 23,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Reversible,Partial Reversible
+Rule: 24,Reversible,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 25,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Partial Reversible
+Rule: 26,Reversible,Reversible,Non,Non,Reversible,Non,Reversible,Non,Non,Partial Reversible
+Rule: 27,Non,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Partial Reversible
+Rule: 28,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 29,Reversible,Reversible,Non,Non,Reversible,Reversible,Non,Reversible,Reversible,Partial Reversible
+Rule: 30,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 32,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 33,Reversible,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 34,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 35,Reversible,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Partial Reversible
+Rule: 36,Reversible,Non,Non,Non,Non,Reversible,Non,Non,Non,Partial Reversible
+Rule: 37,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Non,Partial Reversible
+Rule: 38,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 40,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 41,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Partial Reversible
+Rule: 42,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 43,Reversible,Non,Non,Non,Reversible,Non,Reversible,Non,Non,Partial Reversible
+Rule: 44,Non,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 45,Non,Reversible,Non,Non,Non,Non,Non,Reversible,Reversible,Partial Reversible
+Rule: 46,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 50,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 51,Non,Non,Non,Non,Reversible,Reversible,Non,Reversible,Non,Partial Reversible
+Rule: 54,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 56,Non,Reversible,Non,Reversible,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 57,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Reversible,Partial Reversible
+Rule: 58,Non,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 60,Non,Reversible,Reversible,Non,Non,Reversible,Non,Non,Non,Partial Reversible
+Rule: 72,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 73,Reversible,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Partial Reversible
+Rule: 74,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 76,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 77,Non,Non,Non,Non,Non,Non,Non,Non,Reversible,Partial Reversible
+Rule: 78,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 90,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 104,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 105,Non,Non,Non,Non,Non,Reversible,Non,Reversible,Reversible,Partial Reversible
+Rule: 106,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 108,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 128,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 129,Non,Non,Non,Non,Non,Reversible,Non,Non,Reversible,Partial Reversible
+Rule: 130,Reversible,Non,Non,Reversible,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 131,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 132,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 133,Non,Non,Reversible,Non,Non,Non,Non,Reversible,Non,Partial Reversible
+Rule: 134,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 136,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 137,Non,Non,Non,Non,Reversible,Reversible,Non,Non,Reversible,Partial Reversible
+Rule: 138,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 140,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 142,Reversible,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 146,Non,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 150,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 152,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 154,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 156,Reversible,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 160,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 161,Non,Non,Non,Non,Non,Non,Non,Reversible,Reversible,Partial Reversible
+Rule: 162,Reversible,Non,Non,Non,Reversible,Non,Non,Non,Non,Partial Reversible
+Rule: 164,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 168,Non,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 170,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 172,Reversible,Reversible,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 178,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
+Rule: 184,Reversible,Reversible,Non,Non,Non,Non,Reversible,Non,Non,Partial Reversible
+Rule: 200,Non,Non,Reversible,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 204,Reversible,Non,Non,Non,Non,Non,Non,Non,Non,Partial Reversible
+Rule: 232,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non
